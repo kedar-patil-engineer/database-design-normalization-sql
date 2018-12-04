@@ -1,0 +1,9 @@
+# Large raw dataset excluded (download from source linked in README)
+lending_club_loan_two.csv
+
+# Common junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
