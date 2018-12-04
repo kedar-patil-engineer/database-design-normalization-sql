@@ -42,6 +42,10 @@ modeling.
 - `Database Design and steps performed/` - normalization steps (1NF, 2NF, 3NF,
   referential integrity, relations)
 
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE).
+
 ## Author
 
 Kedar Patil - MS Business Analytics, California State University, East Bay
